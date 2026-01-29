@@ -23,7 +23,7 @@ const greeting = {
  const greeting = {
   username: "Your Name",
   title: "Hi, I'm Your Name",
-  subTitle: "SEO & Digital Marketing Specialist | UAE Local SEO | Profile Creation Backlinks",
+  subTitle: "Car Recovery Serive in UAE, Abu Dhabi| UAE Local| Profile Creation Backlinks",
 
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
@@ -35,13 +35,13 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  github: "https://github.com/carrecoveryuae.ae",
+  linkedin: "https://www.linkedin.com/in/carrecoveryuae.ae/",
   gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  gitlab: "https://gitlab.com/carrecoveryuae.ae",
+  facebook: "https://www.facebook.com/carrecoveryuae.ae",
+  medium: "https://medium.com/@scarrecoveryuae.ae",
+  stackoverflow: "https://stackoverflow.com/users/10422806/carrecoveryuae.ae",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -154,37 +154,12 @@ const openSource = {
 
 // Some big projects you have worked on
 
-const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
-  projects: [
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          website: "https://carrecoveryuae.ae",
-
-        }
-      ]
-    }
-  ],
-  display: true // Set false to hide this section, defaults to true
-};
+{
+  title: "Car Recovery UAE",
+  description: "Created 20 free profile creation backlinks on UAE business directories to improve local SEO visibility in Dubai and Abu Dhabi.",
+  image: "car.png",
+  link: "https://carrecoveryuae.ae"
+}
 
 // Achievement Section
 // Include certificates, talks etc
@@ -313,11 +288,12 @@ const resumeSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  const contactInfo = {
+  title: "carrecoveryuae.ae",
+  subtitle: "Contact Our Car Recovery UAE Service Team",
+  email_address: "contact@carrecoveryuae.ae",
+};
+
 };
 
 // Twitter Section
